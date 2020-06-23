@@ -1,0 +1,10 @@
+{
+  "@midgar/redis": {
+    "enabled": true,
+    "path": "../../.."
+  },
+  "@midgar/service": true,
+  "test-plugin": {
+    "local": true
+  }
+}

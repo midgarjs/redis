@@ -1,0 +1,17 @@
+node_modules/
+.history
+.idea/
+.vscode/
+.nyc_output/
+.sonarlint/
+coverage/
+reports/
+docs/
+test/
+.mocha-report.xml
+.env
+.drone.yml
+.eslintrc.js
+jsdoc.js
+sonar-project.properties
+sonarlint.json
